@@ -1,10 +1,8 @@
 {
-  "json": [
-    {
-      "id": "1",
-      "ip": "127.0.0.1",
-      "duration": "1000",
-      "version": "1.0.0"
-    }
-  ]
+  "id": "1",
+  "ip": "127.0.0.1",
+  "duration": "1000",
+  "version": "1.0.0",
+  "pushNumber": 20,
+  "channel": 12
 }
